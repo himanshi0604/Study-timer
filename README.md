@@ -20,10 +20,6 @@ Minimal and clean UI
 2. Click Pause to stop the timer temporarily.
 3. Click Reset to restart the timer from the beginning.
 
-#Preview
-![WhatsApp Image 2026-03-18 at 21 31 30](https://github.com/user-attachments/assets/28ad3135-3922-4def-af15-d1ad3058f238)
-
-
 -Purpose
 This project was created to practice:
 - DOM manipulation in JavaScript
